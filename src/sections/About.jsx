@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 
 import img1 from "../assets/Images/1.jpeg";
-import img2 from "../assets/Images/2.jpeg";
 import img3 from "../assets/Images/2.jpeg";
 
 const Section = styled.section`
